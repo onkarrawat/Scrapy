@@ -1,0 +1,19 @@
+[16:43:19]- uistepdefinitions.DemoBlazeStepDef  [33]- Browser and url launched successfully
+[16:43:22]- uistepdefinitions.DemoBlazeStepDef  [43]- Laptop model clicked successfully
+[16:43:26]- uistepdefinitions.DemoBlazeStepDef  [55]- item added to cart successfully
+[16:43:31]- uistepdefinitions.DemoBlazeStepDef  [63]- Clicked on Home
+[16:43:34]- uistepdefinitions.DemoBlazeStepDef  [43]- Laptop model clicked successfully
+[16:43:38]- uistepdefinitions.DemoBlazeStepDef  [55]- item added to cart successfully
+[16:43:43]- uistepdefinitions.DemoBlazeStepDef  [63]- Clicked on Cart
+[16:43:51]- uistepdefinitions.DemoBlazeStepDef  [71]- item Dell i7 8gb deleted from cart successfully
+[16:43:51]- uistepdefinitions.DemoBlazeStepDef  [75]- AmountForSonyvaio 790.0
+[16:43:55]- uistepdefinitions.DemoBlazeStepDef  [86]- Clicked on Place Order button 
+[16:44:00]- uistepdefinitions.DemoBlazeStepDef  [101]- clicked on Purchase button
+[16:44:02]- uistepdefinitions.DemoBlazeStepDef  [104]- OrderInfo Id: 4664387
+Amount: 790 USD
+Card Number: 1111111111111111
+Name: Onkar
+Date: 20/9/2020
+[16:44:02]- uistepdefinitions.DemoBlazeStepDef  [110]- OrderId 4664387
+[16:44:02]- uistepdefinitions.DemoBlazeStepDef  [111]- Amount 790.0
+[16:44:03]- uistepdefinitions.DemoBlazeStepDef  [114]- successfully clicked on OK button
